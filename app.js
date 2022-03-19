@@ -8,3 +8,5 @@ app.use("/malek" , express.static("myWebside"));
 
 
 app.listen(PORT, () => {console.log("The server is lisning on port " + PORT)});
+
+// the creating and switching between two branches are done. 
